@@ -27,7 +27,8 @@ require (
 	github.com/lib/pq v1.10.0
 	github.com/magiconair/properties v1.8.4
 	github.com/manifoldco/promptui v0.8.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/otiai10/copy v1.5.0
 	github.com/prometheus/client_golang v1.9.0
 	github.com/sirupsen/logrus v1.8.0
